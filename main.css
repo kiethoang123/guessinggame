@@ -1,0 +1,37 @@
+/* Write your CSS code in this file */
+body{
+    background-image: url(https://cutewallpaper.org/21/cool-backgrounds-for-men/Black-Men-Wallpaper-62-images-.jpg);
+}
+
+ 
+header{
+     text-align: center;
+     font-size: 30px;
+     color: white;
+ }
+
+
+#container {
+     margin:auto;
+     border: 5px solid lightblue;
+     font-size: 30px;
+     padding: 10px;
+     text-align: center;
+     height: 260px;
+     width: 600px;
+     background-image: linear-gradient(45.34deg, rgb(6, 225, 6) 5.66%, #0066FF 94.35%);
+     color: white;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@media(min-width:400px) {
+    
+}
+
+@media(max-width:700px){
+
+}
